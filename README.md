@@ -6,3 +6,5 @@ landing-page
 Выполнил аддаптив сайта. 
 Проверка на валидность HTML на сайте https://validator.w3.org/ прошла успешно, без каких-либо ошибок.
 Залил на хостинг.
+![Screenshot_17](https://user-images.githubusercontent.com/119508598/207017166-50008931-9b9e-437b-926f-94fc6c492bce.png)
+https://mini-mal.netlify.app/
