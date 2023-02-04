@@ -6,5 +6,5 @@ landing-page <br/>
 Выполнил аддаптив сайта. <br/>
 Проверка на валидность HTML на сайте https://validator.w3.org/ прошла успешно, без каких-либо ошибок. <br/>
 Залил на хостинг. <br/>
-![Screenshot_17](https://user-images.githubusercontent.com/119508598/207017166-50008931-9b9e-437b-926f-94fc6c492bce.png)
+<a href="https://mini-mal.netlify.app/">![Screenshot_17](https://user-images.githubusercontent.com/119508598/207017166-50008931-9b9e-437b-926f-94fc6c492bce.png)<a/>
 <a href="https://mini-mal.netlify.app/">Ссылка на проэкт<a/>
